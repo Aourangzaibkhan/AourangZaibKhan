@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EFF&center=true&vCenter=true&width=650&lines=Software+Developer;Python+Engineer;AI+%26+Machine+Learning+Enthusiast;Code.+Create.+Innovate.+Repeat.)](https://git.io/typing-svg)
+
+</div>
+
 👋 Hi, I'm Aurangzaib Khan
 
 💻 Software Developer | Python Engineer | AI & Machine Learning Enthusiast
@@ -23,6 +29,12 @@ I enjoy transforming complex ideas into practical software through programming, 
 ---
 
 🛠️ Technology Stack & Skills
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,java,php,html,css,react,nextjs,vue,angular,bootstrap,tailwind,mysql,postgres,mongodb,redis,flask,fastapi,django,nodejs,tensorflow,pytorch,docker,git,github,linux,vscode,postman,figma&theme=dark)](https://skillicons.dev)
+
+</div>
 
 💻 Programming Languages
 
@@ -110,6 +122,26 @@ Paper Generator| Automated document generation platform
 Courier Management System| Tracking and management software
 AI Translator| AI-powered language translation
 Business Management Systems| POS, inventory and reporting solutions
+
+---
+
+📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AourangZaibKhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/AourangZaibKhan/AourangZaibKhan/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
